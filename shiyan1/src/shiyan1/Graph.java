@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.lang.NullPointerException;
+
 public class Graph{
 	private List<Vertex> vertexList;   //图的顶点集
 	private Map<Vertex, List<Edge>> ver_edgeList_map;  //图的每个顶点对应的有向边
