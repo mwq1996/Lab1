@@ -14,6 +14,9 @@ public class Graph{
 		this.ver_edgeList_map = ver_edgeList_map;
 	}
 
+/*C*/
+
+
 	public List<Vertex> getVertexList() {
 		return vertexList;
 	}
