@@ -18,7 +18,7 @@ import org.openqa.selenium.phantomjs.PhantomJSDriverService;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.OutputType;  
 import org.openqa.selenium.TakesScreenshot;  */
-/*5*/
+
 /*TEST*/
 public class test {
 	public static String getPath(Graph g) {

@@ -12,7 +12,7 @@ public class Graph{
 		this.vertexList = vertexList;
 		this.ver_edgeList_map = ver_edgeList_map;
 	}
-/*C*/
+
 	public List<Vertex> getVertexList() {
 		return vertexList;
 	}
